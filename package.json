@@ -1,0 +1,14 @@
+{
+  "name": "request-param",
+  "version": "1.0.0",
+  "description": "demo for request",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "req-express",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
